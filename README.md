@@ -9,7 +9,7 @@
 
 Hi, I'm Bryan Rojas, a Software Engineer 👨🏽‍💻 from sunny Southern California. Currently, I'm a Software Engineering Intern @ Freshrealm(https://freshrealm.com/) 🥘🍽️. Beside's programming, I enjoy browsing reddit, playing video games, cooking, and going out to eat.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/lM86pZcDxfx5e/giphy.gif" />
+  <img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/lM86pZcDxfx5e/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
