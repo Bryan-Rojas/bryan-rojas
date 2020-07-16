@@ -1,4 +1,4 @@
-### Hi I'm Bryan 👋🏽😄
+### Hi I'm [Bryan](https://bryanrojas.net) 👋🏽😄
 
 <a href="https://www.linkedin.com/in/bryrojas/">
   <img align="left" alt="Bryan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Bryan Rojas, a Software Engineer 👨🏽‍💻 from sunny Southern California. Currently, I'm a Software Engineering Intern @ Freshrealm(https://freshrealm.com/) 🥘🍽️. Beside's programming, I enjoy browsing reddit, playing video games, cooking, and going out to eat.
+Hi, I'm Bryan Rojas, a Software Engineer 👨🏽‍💻 from sunny Southern California. Currently, I'm a Software Engineering Intern @ [Freshrealm](https://freshrealm.com/) 🥘🍽️. Beside's programming, I enjoy browsing reddit, playing video games, cooking, and going out to eat.
 
   <img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/lM86pZcDxfx5e/giphy.gif" />
   
