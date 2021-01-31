@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Bryan Rojas (He/Him), a Software Engineer 👨🏽‍💻 from sunny Southern California. Currently, I am working as a Software Engineer @ [Oracle](https://www.oracle.com/index.html) 🅾️. Beside's programming, I enjoy browsing reddit, playing video games, cooking, keeping up with tech, building LEGOs, and going out to eat.
+Hi, I'm Bryan Rojas (He/Him), a Software Engineer 👨🏽‍💻 from sunny Southern California. I'm a Software Engineer @ [Oracle](https://www.oracle.com/index.html) 🅾️. Beside's programming, I enjoy browsing reddit, playing video games, cooking, keeping up with tech, building LEGOs, and going out to eat.
 
 <img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/lM86pZcDxfx5e/giphy.gif" />
 
