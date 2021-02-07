@@ -1,6 +1,6 @@
 ### Hi I'm [Bryan](https://bryanrojas.net) 👋🏽😄 
 
-<img align="right" height="300" alt="GIF" src="https://media.giphy.com/media/lM86pZcDxfx5e/giphy.gif" />
+<img align="right" height="300" alt="GIF" src="https://media0.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
 
 - 👨🏽‍💻 Software Engineer @ Oracle
 - 🌇 Sunny Southern California
