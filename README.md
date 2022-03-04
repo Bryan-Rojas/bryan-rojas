@@ -10,5 +10,5 @@
   - 📺 Binge-watching Shows
   - 🃏 Collecting Pokemon Cards
 - 📫 Email: BryanRojasCS@gmail.com
-- 📝 [Resume](https://bryanrojas.net/static/media/Bryan%20Rojas%20-%20Resume%20-%20April%202020.5d37a48c.pdf)
+- 📝 [Resume](https://res.cloudinary.com/dzwtspghi/image/upload/v1644435651/Bryan_Rojas_-_Resume_-_2022_wdieln.pdf)
 - 🟦 [LinkedIn](https://www.linkedin.com/in/~bryan/)
